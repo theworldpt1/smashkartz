@@ -1,3 +1,3 @@
 # smashkarts
 
-links: https://smash-karts.netlify.app/ 
+made by telacthorz
